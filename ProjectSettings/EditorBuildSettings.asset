@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LMS_NewScene/LMS_NewScene.unity
+    guid: 09c9ac8f4df6b0446b30fccf0c19858b
+  - enabled: 1
+    path: Assets/Scenes/SolarLab.unity
+    guid: 68c45136fd86c4294889bb64311c8be2
+  - enabled: 1
+    path: Assets/Scenes/ElectricityLab.unity
+    guid: 771346cd29bc04919a1e635d8b39c406
+  - enabled: 1
+    path: Assets/Scenes/LeverLab.unity
+    guid: 854bef9dabe1643e5a9b899493a31b3b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5b7532ca94c9e4609b265c8d1c3c1b69, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 00a966ec544e74e96996c33e2c835e63, type: 2}
